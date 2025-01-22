@@ -31,4 +31,10 @@ Escolha o número de sua opção:
 4 - Listar autores vivos em um determinado ano
 5 - Listar livros em um determinado idioma
 0 - Sair
-```
+`````
+
+<p align="center">
+  <img src="\badge literalura.webp" alt="Imagem Badge">
+</p>
+
+
